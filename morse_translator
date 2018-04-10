@@ -1,0 +1,1 @@
+msg = str(raw_input('What is your message?\n'))
